@@ -13,3 +13,5 @@
 2022-12-09 18:51:45,202 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /VideoApp/src/test/java
 2022-12-09 18:51:46,040 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
 2022-12-09 18:51:46,728 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-09 18:51:46,762 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-09 18:51:46,772 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\admin\OneDrive\Desktop\Linkcode\Team1\Backend\VideoApp\src\test\resources
